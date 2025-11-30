@@ -1,6 +1,7 @@
 let person = "Link"
-let xp = 1500
+let xp = 9500
 let nivel = ""
+
 
 if (xp < 1000) {
     nivel = "Ferro"
